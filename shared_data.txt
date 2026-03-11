@@ -1,0 +1,29 @@
+1
+{
+    "192.168.1.213": {
+        "cpu_cores": 4,
+        "gateway": "192.168.1.1",
+        "hostname": "eduard-ThinkPad-X230",
+        "ip": "192.168.1.213",
+        "last_seen": 1773265023,
+        "load": 0.37,
+        "neighbors": [
+            {
+                "ip": "192.168.1.252",
+                "mac": "c0:39:5a:6d:30:38"
+            },
+            {
+                "ip": "192.168.1.216",
+                "mac": "b8:ee:65:33:54:ff"
+            },
+            {
+                "ip": "192.168.1.1",
+                "mac": "88:d7:f6:b6:7c:a0"
+            }
+        ],
+        "os": "Ubuntu 24.04.3 LTS",
+        "ram_usage": "2.9/7.4 GB",
+        "status": "online",
+        "type": "managed_device"
+    }
+}
